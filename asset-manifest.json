@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barx-corporation/barx-corporation/static/css/main.81e9574f.css",
+    "main.js": "/barx-corporation/barx-corporation/static/js/main.ae5b7fdf.js",
+    "static/js/453.050fdcba.chunk.js": "/barx-corporation/barx-corporation/static/js/453.050fdcba.chunk.js",
+    "index.html": "/barx-corporation/barx-corporation/index.html",
+    "main.81e9574f.css.map": "/barx-corporation/barx-corporation/static/css/main.81e9574f.css.map",
+    "main.ae5b7fdf.js.map": "/barx-corporation/barx-corporation/static/js/main.ae5b7fdf.js.map",
+    "453.050fdcba.chunk.js.map": "/barx-corporation/barx-corporation/static/js/453.050fdcba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81e9574f.css",
+    "static/js/main.ae5b7fdf.js"
+  ]
+}
