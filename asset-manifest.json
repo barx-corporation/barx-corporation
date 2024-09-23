@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.81e9574f.css",
-    "main.js": "/static/js/main.6233fc3d.js",
-    "static/js/453.050fdcba.chunk.js": "/static/js/453.050fdcba.chunk.js",
-    "index.html": "/index.html",
-    "main.81e9574f.css.map": "/static/css/main.81e9574f.css.map",
-    "main.6233fc3d.js.map": "/static/js/main.6233fc3d.js.map",
-    "453.050fdcba.chunk.js.map": "/static/js/453.050fdcba.chunk.js.map"
+    "main.css": "/barx-corporation/static/css/main.81e9574f.css",
+    "main.js": "/barx-corporation/static/js/main.7359a608.js",
+    "static/js/453.050fdcba.chunk.js": "/barx-corporation/static/js/453.050fdcba.chunk.js",
+    "index.html": "/barx-corporation/index.html",
+    "main.81e9574f.css.map": "/barx-corporation/static/css/main.81e9574f.css.map",
+    "main.7359a608.js.map": "/barx-corporation/static/js/main.7359a608.js.map",
+    "453.050fdcba.chunk.js.map": "/barx-corporation/static/js/453.050fdcba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81e9574f.css",
-    "static/js/main.6233fc3d.js"
+    "static/js/main.7359a608.js"
   ]
 }
